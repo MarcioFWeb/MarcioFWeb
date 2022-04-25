@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MarcioFWeb Marcio Figueiredo
+- 👋 Hi, I’m @MarcioFWeb Marcio Figueiredo, from Brazil
 
-I´m Backend DEV (and Fullstack, Frontend, too) +25 years |💍 Eliete|👦 Miguel and 👧 Mariana's father|❤ my family| 👨‍💻 #node #js #ts #react #dotnet #agile #cloud #ia #tests #devops #ci #cd
+I´m Backend Developer (and Fullstack, Frontend, too) |💍 Eliete |👦 Miguel and 👧 Mariana's father | ❤ my family 
 
-I have been working as a Systems Analyst for over 25 years.
+💻 I have been working as a Systems Analyst for over 25 years.
 
 Today, main activity: Backend. | Main Stacks: Javascript, Node, Typescript, React.
 
