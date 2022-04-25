@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcioFWeb Marcio Figueiredo
 
-I´m Full-Stack DEV +25 years |💍 Eliete|👦 Miguel and 👧 Mariana's father|❤ my family| 👨‍💻 #node #js #ts #react #dotnet #agile #cloud #ia #tests #devops #ci #cd
+I´m Backend DEV (and Fullstack, Frontend, too) +25 years |💍 Eliete|👦 Miguel and 👧 Mariana's father|❤ my family| 👨‍💻 #node #js #ts #react #dotnet #agile #cloud #ia #tests #devops #ci #cd
 
 I have been working as a Systems Analyst for over 25 years.
 
